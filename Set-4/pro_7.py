@@ -1,6 +1,6 @@
 # 07 Accept the string from user;display the count of vowels and consonants.
 
-str = input('Enter A string : ')
+str = str.lower(input('Enter A string : '))
 len = len(str)
 vowel = 0
 con = 0
