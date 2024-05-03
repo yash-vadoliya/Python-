@@ -1,3 +1,7 @@
+# install Pandas and xlrd  usin Command :
+#   pip install pandas
+#   pip install xlrd
+
 # # READ CSV FILE AND DISPLAY DATA IN THE FORM OF DATA FRAME
 
 # import pandas as pd
